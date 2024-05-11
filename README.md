@@ -1,6 +1,6 @@
 👋 Hi
 
-I am working on **causal inference** ∩ **statistics or machine learning** for genetic epidemiology
+I am working on **causal inference** ∩ **statistics or machine learning** for epidemiology
 
 ### Selected Open Source Code and Projects:
 - [DRMR](https://github.com/HDTian/DRMR.com) if the causal effect can be nonlinear
