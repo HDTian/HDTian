@@ -9,6 +9,8 @@ I am working on **causal inference** ∩ **statistics or machine learning** for 
 
 Code issues email me directly, most of them will be solved within 2 working days
 
-Methodological inquiries and collaboration are very welcome!
+Let me know if you feel any guidance is not clear 
+
+Methodological inquiries and collaboration are very welcome
 
 
