@@ -7,7 +7,7 @@ I am working on **causal inference** ∩ **statistics or machine learning** for 
 - [RFQT](https://github.com/HDTian/RFQT) if the causal effect can be nonlinear or heterogeneous
 - [TVMR](https://github.com/HDTian/TVMR) if the causal effect can be time-varying
 
-Code issues email me directly - most will be solved within 2 working days
+Email code issues to me directly - most will be solved within 2 working days
 
 Let me know if you feel any guidance is not clear 
 
