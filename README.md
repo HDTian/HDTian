@@ -4,7 +4,7 @@ I am working on **causal inference** ∩ **stats/ML** for genetic epidemiology
 
 ### Selected Open Source Code and Projects:
 - [DRMR](https://github.com/HDTian/DRMR) for stratified IV analysis
-- [RFQT](https://github.com/HDTian/RFQT) for effect heterogneiety analysis
+- [RFQT](https://github.com/HDTian/RFQT) for effect heterogeneity analysis
 - [TVMR](https://github.com/HDTian/TVMR) for time-varying IV analysis
 - [SSS](https://github.com/HDTian/SSS) for nonlinear IV analysis
 
