@@ -1,6 +1,6 @@
 👋 Hi
 
-I am working on **causal inference** ∩ **statistics or machine learning** for genetic epidemiology
+I am working on **causal inference** ∩ **stats/ML** for genetic epidemiology
 
 ### Selected Open Source Code and Projects:
 - [DRMR](https://github.com/HDTian/DRMR) for stratified IV analysis
